@@ -1,5 +1,5 @@
 return {
-	"jaller698/max78000.nvim",
+	"jaller698/maxim.nvim",
 	dependencies = {
 		"folke/snacks.nvim",
 	},
